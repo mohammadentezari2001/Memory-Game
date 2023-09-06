@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/Memory-Game/static/css/main.868b663c.css",
+    "main.js": "/Memory-Game/static/js/main.0d6eb68a.js",
+    "static/js/787.28cb0dcd.chunk.js": "/Memory-Game/static/js/787.28cb0dcd.chunk.js",
+    "static/media/cover.png": "/Memory-Game/static/media/cover.645e5b466837ca8c7bb2.png",
+    "static/media/shield-1.png": "/Memory-Game/static/media/shield-1.ce8860624651400db5b1.png",
+    "static/media/helmet-1.png": "/Memory-Game/static/media/helmet-1.bae25ad915ed7fb2dbc3.png",
+    "static/media/potion-1.png": "/Memory-Game/static/media/potion-1.abdb5580516208ffd35d.png",
+    "static/media/scroll-1.png": "/Memory-Game/static/media/scroll-1.2590149f08921cf26659.png",
+    "static/media/sword-1.png": "/Memory-Game/static/media/sword-1.960bfcd496fbeb1d7680.png",
+    "static/media/ring-1.png": "/Memory-Game/static/media/ring-1.eef589005200084f6e1e.png",
+    "index.html": "/Memory-Game/index.html",
+    "main.868b663c.css.map": "/Memory-Game/static/css/main.868b663c.css.map",
+    "main.0d6eb68a.js.map": "/Memory-Game/static/js/main.0d6eb68a.js.map",
+    "787.28cb0dcd.chunk.js.map": "/Memory-Game/static/js/787.28cb0dcd.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.868b663c.css",
+    "static/js/main.0d6eb68a.js"
+  ]
+}
